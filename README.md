@@ -2,7 +2,7 @@
 
 > A Global Game Jam 2025 entry — a 2D mini-game about a clownfish finding its way home through dark, winding deep-sea tunnels.
 
-![Deep Sea Bubble Rush Overview](https://evangames.cn/images/deep-sea-bubble-rush-overview.jpg)
+<img width="967" height="545" alt="image" src="https://github.com/user-attachments/assets/86bc414d-d2c4-40dc-8767-04a9b87fdabf" />
 
 ## Game Overview
 
@@ -10,7 +10,7 @@ Deep Sea Bubble Rush is a 2D deep-sea adventure mini-game developed in C++ with 
 
 The game blends adventure, puzzle-solving, and hidden elements: bright coral is the key to opening hidden areas; bubbles serve both as a resource for the dash skill and as the key to breaking obstacles; the deeper the water, the darker the color and the higher the difficulty.
 
-![Deep Sea Bubble Rush Gameplay](https://evangames.cn/images/deep-sea-bubble-rush-gameplay.jpg)
+<img width="967" height="540" alt="image" src="https://github.com/user-attachments/assets/02c28686-6017-4d08-840e-03355b19941b" />
 
 ## Project Structure
 
